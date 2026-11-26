@@ -15,3 +15,9 @@ Short notes from the team on working with Copilot in this repository.
 - `.github/workflows/copilot-setup-steps.yml` prepares the environment so Copilot can run the
   test suite before it proposes a change.
 - Copilot is a collaborator, not a replacement for review: a human still approves every pull request.
+
+## Resources
+
+- GitHub Docs: Copilot code review and custom instructions.
+- The `prepare-environment` pull request in this repository, which set up the instructions file
+  and the setup workflow.
